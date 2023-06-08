@@ -189,6 +189,7 @@ require('neoai').setup{
         ["select_down"] = "<C-j>",
     },
     open_api_key_env = "OPENAI_API_KEY",
+    open_api_url = "https://api.openai.com/v1/chat/completions",
     shortcuts = {
         {
             name = "textify",
